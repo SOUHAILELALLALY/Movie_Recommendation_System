@@ -1,5 +1,5 @@
-# Movie_Recommendation_System\
-## How to run this the project\
+# Movie_Recommendation_System
+## How to run this the project
 1- Install all the required libraries.
 2- Obtain your API key from https://www.themoviedb.org/.
 3- Replace 'YOUR_API_KEY' in both places.
